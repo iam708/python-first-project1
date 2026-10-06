@@ -10,5 +10,5 @@ print(git --versiongit git / 5)
 print(5 % 5)
 print(5 ** 5)
 print(round(x , 1))
-y = 999.9
-print(abs(-999.9))
+y = 989.9
+print(abs(-989.9))
